@@ -19,8 +19,7 @@
 // Sample output 1:
 // 8
 
-//Time complexity : O(n)
-//Space complexity : O(1)
+
 
 class Solution {
 
@@ -41,3 +40,6 @@ class Solution {
 
     }
 }
+
+//Time complexity : O(n)
+//Space complexity : O(1)

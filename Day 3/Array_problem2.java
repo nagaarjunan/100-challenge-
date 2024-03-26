@@ -40,13 +40,7 @@
 // Time limit: 1 sec
 
 
-// Hints:
-// 1. Sort the array.
-// 2. More efficiently, can you use the largest and smallest elements to find the required elements?
-// 3. Can you find the largest and smallest elements in a single traversal?
 
-//time complexity : O(n)
-//space complexity : O(1)
 
 class Solution{
     static int[] secondLargestAndSecondSmallest(int[] a, int n){
@@ -76,6 +70,10 @@ class Solution{
         return result;
     }
 }
+
+
+//time complexity : O(n)
+//space complexity : O(1)
 
 
 
